@@ -124,7 +124,7 @@ export default function Home() {
       </main>
 
       <footer className="mt-8 text-center text-gray-400 text-sm">
-        Built with Next.js & Tailwind CSS
+        Made with Love for every F1 fan
       </footer>
     </div>
   );
